@@ -32,11 +32,10 @@ To create a polished, developer-friendly, and responsive invoice UI that can eas
 
 - ⚛️ React (with [Vite](https://vitejs.dev/))
 - 🟦 TypeScript
-- 💨 Tailwind CSS (or SCSS / CSS Modules based on your setup)
+- 💨 SCSS / CSS Modules
 - 🎨 Icon libraries (Heroicons / React Icons)
-- ✅ Form library (Formik or React Hook Form — optional)
-- 🖨️ [react-to-print](https://www.npmjs.com/package/react-to-print) for PDF/Print (optional)
-
+- ✅ Form library 
+- 🖨️ [react-to-print](https://www.npmjs.com/package/react-to-print) for PDF/Print
 ---
 
 ## 📁 Project Structure
